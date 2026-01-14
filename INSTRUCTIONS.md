@@ -12,7 +12,7 @@
 **Ariketa (EU): (ZENBAKIA IDATZI)**  
 | Izena                     | Txip Zenbakia | Sinboloa         | Funtzionamendu Describapena                                                                
  |  RS     |CD4044|------------------|---------------------------------------------------------------------------------|
-| ? | ?             | ? | ? |  
+| RS | ?             | ? | ? |  
 
 
 

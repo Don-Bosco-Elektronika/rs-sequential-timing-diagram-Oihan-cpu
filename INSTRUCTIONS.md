@@ -41,13 +41,12 @@
 ## 🔲 Resultado del Cronograma / Kronogramaren Emaitza / Timing Diagram Result
 Circuito A
 
-*(Añade aquí la captura del WaveDrom)*
+<img width="1033" height="580" alt="5  Ariketa" src="https://github.com/user-attachments/assets/730d1b85-6d38-4d82-9f1f-337ce6eb2051" />
+<img width="1353" height="568" alt="4 Ariketa" src="https://github.com/user-attachments/assets/1f4215ef-a1a9-4daa-bb87-052ea01ef222" />
+<img width="872" height="546" alt="3 Ariketa" src="https://github.com/user-attachments/assets/d8a74f77-1369-428e-98ab-a60808d89fb8" />
+<img width="985" height="521" alt="2 Ariketa" src="https://github.com/user-attachments/assets/4f778af2-61e3-4cd4-8f44-515f7c282eca" />
+<img width="830" height="535" alt="1  Ariketa" src="https://github.com/user-attachments/assets/806c3c90-26fc-427d-b9bc-f7aed6e832f2" />
 
-Circuito B
-
-*(Añade aquí la captura del WaveDrom)*
-
-... AÑADE LO MÁS CIRCUITOS
 
 ---
 

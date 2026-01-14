@@ -56,11 +56,16 @@ Circuito A
 
    
 {signal: [
+
 {name: 'Set', wave: 'hl.h.lhl.h...l..h'},
+
 {name: 'Reset', wave: 'l.h.l.h.lhlhl..h.'},
+
 {},
 {name: 'Q', wave: '0..1.0.1.0.1.x'},
+
 {name: '-Q', wave: '1..0.1.0.1.0.x'}
+
 ]}
 
    

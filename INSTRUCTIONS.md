@@ -79,13 +79,29 @@ Circuito A
 {name: 'Reset', wave: 'lh.l.hl.hlh..l..h'},
 {},
 
-{name: 'Q', wave: ''},
+{name: 'Q', wave: '0..1.0.1.0.1.X'},
 
-{name: '-Q', wave: ''}
+{name: '-Q', wave: '1..0.1.0.1.0.X'}
 
 ]}
 
 2.ARIKETA
+
+{signal: [
+
+ {name: 'clk', wave: 'P................'},
+  
+ {name: 'Set', wave: '0101.0...1.0..1.0'},
+  
+ {name: 'Reset', wave: '1...0.1..0....101'},
+  
+ {},
+  
+ {name: 'Q', wave: '01...0...1....0.1'},
+  
+ {name: '-Q', wave: '10...1...0....1.0'}
+ 
+]}
 
 
    

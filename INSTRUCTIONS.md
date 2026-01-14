@@ -10,7 +10,12 @@
 
 
 **Ariketa (EU): (ZENBAKIA IDATZI)**  
-1 ----> Izena        2 ----> Txip Zenbakia    3 ----> Sinboloa        4 ----> Funtzionamendu Describapena                                                                
+1 ----> Izena        
+2 ----> Txip Zenbakia    
+3 ----> Sinboloa        
+4 ----> Funtzionamendu Describapena       
+
+
 1---->  RS     
  
 2----> CD4044

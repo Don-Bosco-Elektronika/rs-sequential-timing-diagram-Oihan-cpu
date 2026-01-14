@@ -73,12 +73,16 @@ Circuito A
 1. ARIKETA
 
 {signal: [
+
 {name: 'Set', wave: 'l..hl.h.l.h.lhl.h'},
 
 {name: 'Reset', wave: 'lh.l.hl.hlh..l..h'},
 {},
+
 {name: 'Q', wave: ''},
+
 {name: '-Q', wave: ''}
+
 ]}
 
 2.ARIKETA

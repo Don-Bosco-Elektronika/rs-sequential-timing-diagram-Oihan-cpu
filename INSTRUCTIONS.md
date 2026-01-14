@@ -53,17 +53,8 @@ Circuito A
 
 ## 🔲 Código del Cronograma / Kronogramaren Kodea / Timing Diagram Code
 Circuito A
-
-*(Añade aquí el código del WaveDrom)*
-
-Circuito B
-
-*(Añade aquí el código del WaveDrom)*
-
-... AÑADE LO MÁS CIRCUITOS
-
----
-
+1. Ariketa
+   
 
 ## 📤 Entrega / Igo / Upload  
 

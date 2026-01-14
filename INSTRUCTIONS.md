@@ -20,7 +20,9 @@
  
 2----> CD4044
  
-3 ----> <img width="228" height="178" alt="Captura de pantalla 2026-01-14 121814" src="https://github.com/user-attachments/assets/fb6b403f-092d-460f-a441-25ded6456052" />
+3 ----> 
+
+<img width="228" height="178" alt="Captura de pantalla 2026-01-14 121814" src="https://github.com/user-attachments/assets/fb6b403f-092d-460f-a441-25ded6456052" />
 
  
 4 ----> CD4044 txipa lau RS flip-flop independiente ditu, bakoitzak bit bat gordetzen du, eta bere irteera Set eta Reset sarreraren arabera aldatzen da.|

@@ -31,7 +31,10 @@
 
 ## 🔲 Circuitos a Simular / Simulatzeko Zirkuituak / Circuits to Simulate
 
-*(Añade aquí la captura de proteus)*
+<img width="779" height="444" alt="Captura de pantalla 2026-01-14 122608" src="https://github.com/user-attachments/assets/713e419c-50bb-4a8e-b233-c8af388fb5f5" />
+
+
+
 
 ---
 

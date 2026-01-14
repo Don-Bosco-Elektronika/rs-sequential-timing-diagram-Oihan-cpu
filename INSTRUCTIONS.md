@@ -18,12 +18,17 @@
 
 1---->  RS     
  
-2----> CD4044
+2----> CD4044 
  
 3 ----> 
 
 <img width="228" height="178" alt="Captura de pantalla 2026-01-14 121814" src="https://github.com/user-attachments/assets/fb6b403f-092d-460f-a441-25ded6456052" />
 
+<img width="241" height="197" alt="Captura de pantalla 2026-01-14 125644" src="https://github.com/user-attachments/assets/7fa47033-c393-47fd-8397-29bac9301cf2" />
+
+<img width="236" height="187" alt="Captura de pantalla 2026-01-14 125704" src="https://github.com/user-attachments/assets/3809ecd3-51bd-48fb-8a8d-e11e6783c76a" />
+
+<img width="230" height="173" alt="Captura de pantalla 2026-01-14 125721" src="https://github.com/user-attachments/assets/0c677c51-3705-431b-a65b-ff06ea8587f4" />
  
 4 ----> CD4044 txipa lau RS flip-flop independiente ditu, bakoitzak bit bat gordetzen du, eta bere irteera Set eta Reset sarreraren arabera aldatzen da.|
 

@@ -70,21 +70,19 @@ Circuito A
 
 
 ## 🔲 Código del Cronograma / Kronogramaren Kodea / Timing Diagram Code
-1. Ariketa
+1. ARIKETA
 
-   
 {signal: [
+{name: 'Set', wave: 'l..hl.h.l.h.lhl.h'},
 
-{name: 'Set', wave: 'hl.h.lhl.h...l..h'},
-
-{name: 'Reset', wave: 'l.h.l.h.lhlhl..h.'},
-
+{name: 'Reset', wave: 'lh.l.hl.hlh..l..h'},
 {},
-{name: 'Q', wave: '0..1.0.1.0.1.x'},
-
-{name: '-Q', wave: '1..0.1.0.1.0.x'}
-
+{name: 'Q', wave: ''},
+{name: '-Q', wave: ''}
 ]}
+
+2.ARIKETA
+
 
    
 

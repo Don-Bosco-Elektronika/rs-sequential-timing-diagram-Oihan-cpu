@@ -16,6 +16,9 @@
 4 ----> Funtzionamendu Describapena       
 
 
+
+
+
 1---->  RS     
  
 2----> CD4044 

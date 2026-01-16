@@ -13,9 +13,7 @@
 1 ----> Izena        
 2 ----> Txip Zenbakia    
 3 ----> Sinboloa        
-4 ----> Funtzionamendu Describapena       
-
-
+4 ----> Funtzionamenduaren Describapena       
 
 
 

@@ -31,7 +31,10 @@
 
 <img width="230" height="173" alt="Captura de pantalla 2026-01-14 125721" src="https://github.com/user-attachments/assets/0c677c51-3705-431b-a65b-ff06ea8587f4" />
  
-4 ----> CD4044 txipa lau RS flip-flop independiente ditu, bakoitzak bit bat gordetzen du, eta bere irteera Set eta Reset sarreraren arabera aldatzen da.|
+4 ---->4044 txipa 4 biteko latch erregistroa da. Lau seinale digital (0 edo 1) gordetzeko balio du, eta egoera hori mantentzen du aldatzeko agindua jaso arte.
+
+🔹 Adibide laburra:
+4 botoi 4044 txipera konektatzen dituzu. “Gorde” botoia sakatzean, txipak botoien egoera gordetzen du eta 4 LED piztuta edo itzalita mantentzen ditu, botoiak askatu arren.|
 
 
 

@@ -139,6 +139,23 @@ Circuito A
 
 ]}
 
+5.ARIKETA
+
+{signal: [
+{name: 'clk', wave: 'n................'},
+
+{name: 'Set', wave: '0..1010.1..01010.'},
+
+{name: 'Reset', wave: '1...0..1.0..1..01'},
+
+{},
+
+{name: 'Q', wave: '0..1.x1...0x10.1'},
+
+{name: '-Q', wave: '1..0.x0...1x01.0'}
+
+]}
+
 
 
 
